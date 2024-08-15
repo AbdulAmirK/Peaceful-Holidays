@@ -3,18 +3,19 @@
 # Global Shark Attack
 <details>
   <summary>
-   <h2>Learning Goals</h2>
+   <h2>Project Goal</h2>
   </summary>
 
-  This lab allows you to practice and apply the concepts and techniques taught in class. 
+  Data Wrangling Quest will help focus your efforts and ensure you gain valuable skills from the project.
 
-  Upon completion of this lab, you will be able to:
-  
-- Create Pandas DataFrames from CSV files.
-- Explore Pandas DataFrames to get the number of rows, columns, summary statistics and data types.
-- Manipulate Series objects using various methods, including sort_values or value_counts.
-- Access data in DataFrames through columns (as a dictionary or attribute) and by using loc or iloc to access rows.
-- Filter and select data in DataFrames using simple comparison and logical operators
+  With completion of this project, we will be able to 
+  - Understand the basics of data wrangling
+  - Master data cleaning techniques
+  - Enhance problem-solving and hypothesis-testing skills
+  - Develop exploratory data analysis (EDA) capabilities
+  - Improve teamwork and collaboration skills
+  - Advance coding and project management practices:
+  - Prepare and deliver effective presentations
 
   <br>
   <hr> 
@@ -26,11 +27,14 @@
    <h2>Prerequisites</h2>
   </summary>
 
-Before this starting this lab, you should have learnt about:
+Before this starting this project, you should have learnt about:
 
 - Data types, operators and structures
 - Flow control (if-else statements and loops)
 - Functions
+- Filters
+- Pandas and Numpy
+- Basic Statistics
  
   <br>
   <hr> 
