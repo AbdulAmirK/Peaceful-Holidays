@@ -93,9 +93,9 @@ Source: The origin of the information regarding the shark attack (e.g., news rep
 ## Findings and Conclusions
 
 ## Deliverables
-Complete and clean Jupyter notebook(s) containing the code, analysis, and visualizations.
-A README file with a thorough project documentation.
-A slide deck for the project presentation.
+- Complete and clean Jupyter notebook(s) containing the code, analysis, and visualizations.
+- A README file with a thorough project documentation.
+- A slide deck for the project presentation.
 
 
 ## Contributors
