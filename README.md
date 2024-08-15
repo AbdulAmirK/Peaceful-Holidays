@@ -1,4 +1,4 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png) ![baby shark pngs - 480x480](https://github.com/user-attachments/assets/b23c6158-3bcd-4714-8dcb-6bce466b0bb2)
+![baby shark pngs - 480x480](https://github.com/user-attachments/assets/b23c6158-3bcd-4714-8dcb-6bce466b0bb2)
 
 # Global Shark Attack
 <details>
@@ -103,4 +103,6 @@ Source: The origin of the information regarding the shark attack (e.g., news rep
 - Loredane Nery
 - To Van Cao
 - Mehdi Sahraoui
+
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
