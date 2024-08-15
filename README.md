@@ -44,9 +44,9 @@ Before this starting this project, you should have learnt about:
 
 ## Introduction
 
-Welcome to the Pandas Lab! In this lab, you will learn how to work with and create pandas series and dataframes. These are powerful tools for data manipulation and analysis in Python and allow you to create, manipulate, and analyze large, complex datasets with ease, making it a valuable library for any data scientist or analyst.
+Sharks have long captivated the human imagination, often portrayed as formidable predators of the deep. This fascination, coupled with fear, has been fuelled by sensational media reports and dramatic portrayals in film and literature. However, the reality is that shark attacks on humans are exceedingly rare events. Sharks are not the mindless killers they are often made out to be; rather, they are complex creatures playing a crucial role in maintaining the health of our oceans.
 
-You will also learn how to access their attributes and values, and manipulate them using a variety of built-in methods as well as learn how to filter and sort data and summarize and describe data. By the end of this lab, you will have a strong foundation in working with pandas series and dataframes, which you can apply to real-world data analysis problems.
+Despite their rarity, shark attacks do occur, and when they do, they can have tragic consequences. Understanding the patterns and circumstances surrounding these encounters can help in mitigating risks and promoting coexistence with these ancient mariners.
 
 <br>
 
@@ -55,40 +55,34 @@ You will also learn how to access their attributes and values, and manipulate th
 ## About the dataset
 
 ### Context
-The dataset comprises customer data related to their vehicle insurance policies. It provides details about both the customers and the specific insurance coverage they've opted for. This data an be explored to segment similar kinds of customers.
+Leveraging the power of data analytics, this project aims to shed light on the elusive nature of shark attacks, moving beyond sensationalism to uncover factual patterns and insights. Our mission is to meticulously clean and analyze the "Shark Attacks" dataset through sophisticated data wrangling techniques, thereby illuminating the circumstances under which these rare events occur. By doing so, we not only aspire to enhance public safety and support conservation efforts but also to challenge prevailing myths about sharks. Through a careful examination of attack frequencies, locations, times, and associated human activities, our project strives to contribute to a more informed and balanced dialogue regarding our coexistence with these majestic marine creatures. This endeavor represents a crucial step towards demystifying shark behavior, advocating for data-driven approaches in understanding wildlife, and ultimately fostering a society that respects and preserves the complexity of marine ecosystems.
 
 ### Content
-This dataset provides socio-economic information of customers alongside details of their insured vehicles.  The data contains both categorical and numerical variables. The "Customer Lifetime Value" (CLV) has also been provided, which is derived from historical data. This is essential in understanding the customer purchase behavior.
+Diving into the depths of the "Shark Attacks" dataset presents an opportunity to unravel the mysteries surrounding shark-human interactions, an area often clouded by fear and misinformation. At the heart of our project lies the goal of deploying advanced data wrangling techniques to cleanse and refine a sprawling dataset, transforming it into a coherent narrative that can guide public perceptions and safety strategies alike. By meticulously addressing missing values, duplicates, and inconsistencies, we aim to bring clarity to the data, setting the stage for insightful exploratory data analysis (EDA).
 
 ### Acknowledgements
 UCI ML repository
 
 ### Inspiration
-The data is useful for clustering customers according to their behavior, thereby enabling targeted marketing of a new insurance policy. This helps pre-estimating a budget for marketing expenses.
+At the core of our project is the belief that understanding replaces fear with respect. Inspired by the sheer majesty of sharks and the vital role they play in our ocean ecosystems, we delve into the "Shark Attacks" dataset not just as data analysts but as advocates for the truth. Our work is driven by the conviction that data has the power to demystify, to enlighten, and to spur change. We aspire to transform raw data into insights that foster a symbiotic relationship between humans and sharks, one grounded in knowledge rather than mythology.
 
 ### Data Description
 
-- Customer: Customer ID.
+Date: The exact or approximate date when the shark attack occurred.
+Year: The year in which the shark attack took place.
+Type: Classification of the attack (e.g., provoked, unprovoked, accidental, etc.).
+Country: The country where the shark attack occurred.
+State: The specific state or region within the country of the attack.
+Location: A more detailed description of where the attack took place, often including the beach or area name.
+Activity: The activity the victim was engaged in at the time of the attack (e.g., swimming, surfing, diving, etc.).
+Name: The name of the shark attack victim.
+Sex: The victim's gender (typically denoted as M for male, F for female).
+Age: The age of the victim.
+Injury: A brief description of the injuries sustained from the attack.
+Time: The time of day when the shark attack occurred.
+Species: The species of shark involved in the attack, if identified.
+Source: The origin of the information regarding the shark attack (e.g., news report, journal, eyewitness, etc.).
 
-- ST: State where customers live.
-
-- Gender: Gender of the customer.
-
-- Education: Background education of customers.
-
-- Customer Lifetime Value: Customer Lifetime Value (CLV) is the total revenue the client will derive from their entire relationship with a customer. In other words, it is the predicted or calculated value of a customer over their entire duration as a policyholder with the insurance company. It is an estimation of the net profit that the insurance company expects to generate from a customer throughout their relationship with the company. CLV takes into account factors such as the duration of the customer's policy, premium payments, claim history, renewal likelihood, and potential additional services or products the customer may purchase. It helps insurers assess the long-term profitability and value associated with retaining a particular customer.
-
-- Income: Customer's earnings.
-
-- Monthly Premium Auto: The monthly premium amount a customer pays for their auto insurance. It represents the recurring cost that the insured person must pay to maintain their insurance policy and receive coverage for potential damages, accidents, or other covered events related to their vehicle.
-
-- Number of Open Complaints: Number of complaints the customer has opened.
-
-- Policy Type: Insurance policy categories include Corporate Auto, Personal Auto, and Special Auto.
-
-- Vehicle Class: Specifies the class of insured vehicles, such as Two-Door Car, Four-Door Car SUV, Luxury SUV, Sports Car, and Luxury Car.
-
-- Total Claim Amount: The sum of all claims made by the customer. It represents the total monetary value of all approved claims for incidents such as accidents, theft, vandalism, or other covered events.
 
 ## Requirements
 
@@ -99,59 +93,12 @@ The data is useful for clustering customers according to their behavior, thereby
 
 Complete the challenges in the `Jupyter Notebook` file. Follow the instructions and add your code and explanations as necessary.
 
-## Submission
+## Contributors
+- Abdul Amir
+- Loredane Nery
+- To Van Cao
+- Mehdi Sahraoui
 
-- Upon completion, run the following commands:
-
-```bash
-git add .
-git commit -m "Solved lab"
-git push origin master
-```
-
-- Paste the link of your lab in Student Portal.
-
-
-## FAQs
-<details>
-  <summary>I am stuck in the exercise and don't know how to solve the problem or where to start.</summary>
-  <br>
-
-  If you are stuck in your code and don't know how to solve the problem or where to start, you should take a step back and try to form a clear question about the specific issue you are facing. This will help you narrow down the problem and come up with potential solutions.
-
-
-  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources. 
-
-
-  Once you have a clear understanding of the problem, you will be able to start working toward the solution.
-
-  [Back to top](#faqs)
-
-</details>
-
-
-<details>
-  <summary>I am unable to push changes to the repository. What should I do?</summary>
-  <br>
-
-There are a couple of possible reasons why you may be unable to *push* changes to a Git repository:
-
-1. **You have not committed your changes:** Before you can push your changes to the repository, you need to commit them using the `git commit` command. Make sure you have committed your changes and try pushing again. To do this, run the following terminal commands from the project folder:
-  ```bash
-  git add .
-  git commit -m "Your commit message"
-  git push
-  ```
-2. **You do not have permission to push to the repository:** If you have cloned the repository directly from the main Ironhack repository without making a *Fork* first, you do not have write access to the repository.
-To check which remote repository you have cloned, run the following terminal command from the project folder:
-  ```bash
-  git remote -v
-  ```
-If the link shown is the same as the main Ironhack repository, you will need to fork the repository to your GitHub account first and then clone your fork to your local machine to be able to push the changes.
-
-**Note**: You should make a copy of your local code to avoid losing it in the process.
-
-  [Back to top](#faqs)
-
-</details>
+## Acknowledgment
+Dataset source - https://www.sharkattackfile.net/incidentlog.htm
 
