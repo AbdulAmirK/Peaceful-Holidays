@@ -1,6 +1,6 @@
 ![baby shark pngs - 480x480](https://github.com/user-attachments/assets/b23c6158-3bcd-4714-8dcb-6bce466b0bb2)
 
-# Global Shark Attack
+# Shark Attack Analysis
 <details>
   <summary>
    <h2>Project Goal</h2>
