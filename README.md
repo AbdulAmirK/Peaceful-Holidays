@@ -50,7 +50,7 @@ Despite their rarity, shark attacks do occur, and when they do, they can have tr
 
 <br>
 
-**Happy coding!** :heart:
+
 
 ## About the dataset
 
