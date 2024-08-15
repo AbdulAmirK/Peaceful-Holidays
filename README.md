@@ -93,7 +93,7 @@ Tools and Technologies Used
 
 
 ## Contributors
-- Abdul Amir
+- Amir Abdul
 - Loredane Nery
 - To Van Cao
 - Mehdi Sahraoui
