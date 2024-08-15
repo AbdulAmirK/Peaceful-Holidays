@@ -1,8 +1,5 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-
- ![image](https://github.com/user-attachments/assets/570a95b6-5b0d-4c11-9012-2d0792459337)
-
 # Global Shark Attack
 <details>
   <summary>
