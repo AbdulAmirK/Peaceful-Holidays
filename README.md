@@ -61,7 +61,7 @@ Leveraging the power of data analytics, this project aims to shed light on the e
 Diving into the depths of the "Shark Attacks" dataset presents an opportunity to unravel the mysteries surrounding shark-human interactions, an area often clouded by fear and misinformation. At the heart of our project lies the goal of deploying advanced data wrangling techniques to cleanse and refine a sprawling dataset, transforming it into a coherent narrative that can guide public perceptions and safety strategies alike. By meticulously addressing missing values, duplicates, and inconsistencies, we aim to bring clarity to the data, setting the stage for insightful exploratory data analysis (EDA).
 
 ### Acknowledgements
-UCI ML repository
+Dataset source - https://www.sharkattackfile.net/incidentlog.htm
 
 ### Inspiration
 At the core of our project is the belief that understanding replaces fear with respect. Inspired by the sheer majesty of sharks and the vital role they play in our ocean ecosystems, we delve into the "Shark Attacks" dataset not just as data analysts but as advocates for the truth. Our work is driven by the conviction that data has the power to demystify, to enlighten, and to spur change. We aspire to transform raw data into insights that foster a symbiotic relationship between humans and sharks, one grounded in knowledge rather than mythology.
@@ -85,20 +85,16 @@ Source: The origin of the information regarding the shark attack (e.g., news rep
 
 
 ## Requirements
+Tools and Technologies Used
+- Python: The primary programming language for data cleaning and analysis.
+- Pandas & NumPy: For data manipulation and numerical analysis.
+- Matplotlib & Seaborn: Utilized for generating visualizations.
+- Jupyter Notebook: Served as the interactive environment for code execution and data exploration.
 
-- Fork this repo
-- Clone it to your machine
-
-## Getting Started
-
-Complete the challenges in the `Jupyter Notebook` file. Follow the instructions and add your code and explanations as necessary.
 
 ## Contributors
 - Abdul Amir
 - Loredane Nery
 - To Van Cao
 - Mehdi Sahraoui
-
-## Acknowledgment
-Dataset source - https://www.sharkattackfile.net/incidentlog.htm
 
